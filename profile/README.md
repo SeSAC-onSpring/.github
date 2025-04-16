@@ -35,10 +35,6 @@
 
 ## 사용 기술
 
-## 사용 기술
-
-## 사용 기술
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
 ![Java 17](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
@@ -108,7 +104,6 @@
 
 ## 🪜프로젝트 구조도
 ### 전체 구조
-수정...
 
 ```mermaid
 graph TB
