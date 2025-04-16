@@ -87,6 +87,7 @@
 ### 전체 구조
 수정...
 
+```
 graph TB
   subgraph "사용자 인터페이스"
     RN[React Native 모바일 앱]
@@ -119,6 +120,19 @@ graph TB
   class API backend;
   class RDS,S3 database;
   class EC2 cloud;
+```
+```
+
+- 위처럼 README.md에 붙여넣으면, GitHub에서 자동으로 다이어그램이 렌더링됩니다[2][4][5].
+- 반드시 코드 블록의 시작 부분에 ```mermaid를 입력해야 합니다.
+- 미리보기(Preview)에서 다이어그램이 정상적으로 보이는지 확인할 수 있습니다.
+
+추가 참고:
+- 별도의 설치나 설정 없이 바로 사용 가능합니다[2][4].
+- Mermaid 문법에 대한 자세한 내용은 Mermaid 공식 문서나 GitHub Docs를 참고하세요[4].
+
+이 방법으로 원하는 시스템 아키텍처 다이어그램을 README에 쉽게 포함할 수 있습니다.
+
 
 
 
