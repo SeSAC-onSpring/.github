@@ -37,9 +37,21 @@
 
 ## 사용 기술
 
-| ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) | ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) | ![AWS RDS](https://img.icons8.com/ios/50/000000/amazon-web-services.png) | ![AWS EC2](https://img.icons8.com/ios/50/000000/amazon-ec2.png) | ![AWS S3](https://img.icons8.com/ios/50/000000/amazon-s3.png) | ![React Native](https://img.icons8.com/ios/50/000000/react-native.png) | ![Swagger](https://img.icons8.com/ios/50/000000/swagger.png) | ![Jira](https://img.icons8.com/ios/50/000000/jira.png) | ![Slack](https://img.icons8.com/ios/50/000000/slack-new.png) | ![GitHub](https://img.icons8.com/ios/50/000000/github.png) | ![QueryDSL](https://img.icons8.com/ios/50/000000/code.png) | ![Spring Data JPA](https://img.icons8.com/ios/50/000000/spring-logo.png) |
-|---------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|
+## 사용 기술
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring) 
+![Java 17](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) 
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=amazon-aws) 
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2) 
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3) 
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira) 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) 
+![QueryDSL](https://img.shields.io/badge/QueryDSL-3b6e4f?style=for-the-badge&logo=java) 
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring) 
 **백엔드**
 
 - **Spring Boot**  
