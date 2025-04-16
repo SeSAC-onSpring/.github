@@ -33,7 +33,6 @@
 
 ## 기술 스택 및 사용 목적
 
-## 사용 기술
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
 ![Java 17](https://img.shields.io/badge/Java-007396?style=for-the-badge)
