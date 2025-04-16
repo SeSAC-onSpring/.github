@@ -87,7 +87,7 @@
 ### 전체 구조
 수정...
 
-```
+```mermaid
 graph TB
   subgraph "사용자 인터페이스"
     RN[React Native 모바일 앱]
