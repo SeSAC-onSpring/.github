@@ -121,7 +121,7 @@ graph TB
   class RDS,S3 database;
   class EC2 cloud;
 ```
-```
+
 
 
 
