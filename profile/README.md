@@ -23,9 +23,9 @@
 
 | 이름    | 역할            | GitHub 링크                                |
 |---------|-----------------|--------------------------------------------|
-| 이형민  |       | [GitHub - 이형민](https://github.com/honggildong) |
-| 이연주  |  | [GitHub - 이연주](https://github.com/kimyeonghee) |
-| 조성진  |      | [GitHub - 조성진](https://github.com/parkcheolsu) |
+| 이형민  |       | [이형민](https://github.com/honggildong) |
+| 이연주  |  | [이연주](https://github.com/kimyeonghee) |
+| 조성진  |      | [조성진](https://github.com/choseongjin0815) |
 
 
 ### 🖱️개발환경
