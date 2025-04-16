@@ -18,7 +18,7 @@
 
 ### 📍 주요기능 
 
-   
+
 
 ### 🧑‍🤝‍🧑 맴버 구성
 
@@ -29,7 +29,7 @@
 | 이연주  |  | [이연주](https://github.com/kimyeonghee) |
 | 조성진  |      | [조성진](https://github.com/choseongjin0815) |
 
-
+---
 
 ## 기술 스택 및 사용 목적
 
