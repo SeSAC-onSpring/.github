@@ -41,17 +41,17 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
 ![Java 17](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-3b6e4f?style=for-the-badge)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-3b6e4f?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 
 **백엔드**
 
