@@ -52,6 +52,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) 
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3b6e4f?style=for-the-badge&logo=java) 
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring) 
+
 **백엔드**
 
 - **Spring Boot**  
