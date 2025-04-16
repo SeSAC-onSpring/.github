@@ -35,21 +35,10 @@
 
 ## 사용 기술
 
-| 기술          | 아이콘                                                            |
-|---------------|------------------------------------------------------------------|
-| **Spring Boot** | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) |
-| **Java 17**     | ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) |
-| **MySQL**       | ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) |
-| **RDS**         | ![AWS RDS](https://img.icons8.com/ios/50/000000/amazon-web-services.png) |
-| **AWS EC2**     | ![AWS EC2](https://img.icons8.com/ios/50/000000/amazon-ec2.png) |
-| **S3**          | ![AWS S3](https://img.icons8.com/ios/50/000000/amazon-s3.png) |
-| **React Native**| ![React Native](https://img.icons8.com/ios/50/000000/react-native.png) |
-| **Swagger**     | ![Swagger](https://img.icons8.com/ios/50/000000/swagger.png) |
-| **Jira**        | ![Jira](https://img.icons8.com/ios/50/000000/jira.png) |
-| **Slack**       | ![Slack](https://img.icons8.com/ios/50/000000/slack-new.png) |
-| **GitHub**      | ![GitHub](https://img.icons8.com/ios/50/000000/github.png) |
-| **QueryDSL**    | ![QueryDSL](https://img.icons8.com/ios/50/000000/code.png) |
-| **Spring Data JPA** | ![Spring Data JPA](https://img.icons8.com/ios/50/000000/spring-logo.png) |
+## 사용 기술
+
+| ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png) | ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) | ![AWS RDS](https://img.icons8.com/ios/50/000000/amazon-web-services.png) | ![AWS EC2](https://img.icons8.com/ios/50/000000/amazon-ec2.png) | ![AWS S3](https://img.icons8.com/ios/50/000000/amazon-s3.png) | ![React Native](https://img.icons8.com/ios/50/000000/react-native.png) | ![Swagger](https://img.icons8.com/ios/50/000000/swagger.png) | ![Jira](https://img.icons8.com/ios/50/000000/jira.png) | ![Slack](https://img.icons8.com/ios/50/000000/slack-new.png) | ![GitHub](https://img.icons8.com/ios/50/000000/github.png) | ![QueryDSL](https://img.icons8.com/ios/50/000000/code.png) | ![Spring Data JPA](https://img.icons8.com/ios/50/000000/spring-logo.png) |
+|---------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|
 
 **백엔드**
 
