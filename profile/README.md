@@ -2,7 +2,7 @@
 
 
 ####  피그마
-[✅Figma](https://www.figma.com/file/TXbT2gkAER46LdABssOK0A/%EC%9E%91%EC%97%85-%ED%99%94%EB%A9%B4?type=design&node-id=0-1&mode=design&t=ihZA3Um9rE0Ce8zv-0](https://www.figma.com/design/3dq3FoAhTIkBIHcORUm5cR/SeSAC?node-id=22-58&p=f&t=6piaK3X8gYBbYmnI-0)
+[✅Figma] (https://www.figma.com/file/TXbT2gkAER46LdABssOK0A/%EC%9E%91%EC%97%85-%ED%99%94%EB%A9%B4?type=design&node-id=0-1&mode=design&t=ihZA3Um9rE0Ce8zv-0](https://www.figma.com/design/3dq3FoAhTIkBIHcORUm5cR/SeSAC?node-id=22-58&p=f&t=6piaK3X8gYBbYmnI-0)
 <br/> <br/>
 
 
