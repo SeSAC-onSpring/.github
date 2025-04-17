@@ -25,7 +25,7 @@
 
 | 이름    | GitHub 링크                                         | 
 |---------|-----------------------------------------------------|
-| 이형민  | [이형민](https://github.com/honggildong)            |
+| 이형민  | [이형민](https://github.com/Lidoca)           |
 | 배연주  | [배연주](https://github.com/kimyeonghee)            |
 | 조성진  | [조성진](https://github.com/choseongjin0815)        |
 
